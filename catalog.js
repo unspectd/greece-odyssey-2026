@@ -271,9 +271,9 @@ window.AUDIO_CATALOG = [
     "title": "25. Пролив между островами: На пути к Наксосу",
     "subtitle": "Морской прыжок, силуэт горы Зас и приближение гигантских врат",
     "file": "audio/25_crossing_to_naxos.m4a",
-    "size_kb": 165,
-    "duration_sec": 39.4,
-    "duration_fmt": "0:39"
+    "size_kb": 442,
+    "duration_sec": 54.5,
+    "duration_fmt": "0:54"
   },
   {
     "id": "26_portara_apollo_gate",
@@ -282,9 +282,9 @@ window.AUDIO_CATALOG = [
     "title": "26. Портара: Врата Аполлона",
     "subtitle": "Шесть метров мрамора, двадцать тонн камня и двадцать шесть веков истории",
     "file": "audio/26_portara_apollo_gate.m4a",
-    "size_kb": 200,
-    "duration_sec": 48.3,
-    "duration_fmt": "0:48"
+    "size_kb": 496,
+    "duration_sec": 61.5,
+    "duration_fmt": "1:02"
   },
   {
     "id": "27_myth_ariadne_dionysus",
@@ -293,9 +293,9 @@ window.AUDIO_CATALOG = [
     "title": "27. Миф об Ариадне: Предательство и божественная любовь",
     "subtitle": "Тесей на Палатии, нить лабиринта и рождение культа Диониса",
     "file": "audio/27_myth_ariadne_dionysus.m4a",
-    "size_kb": 225,
-    "duration_sec": 54.6,
-    "duration_fmt": "0:55"
+    "size_kb": 556,
+    "duration_sec": 68.6,
+    "duration_fmt": "1:09"
   },
   {
     "id": "28_venetian_kastro_sanudo",
@@ -304,9 +304,9 @@ window.AUDIO_CATALOG = [
     "title": "28. Венецианский Кастро: Рыцарская цитадель",
     "subtitle": "Марко Санудо, Герцогство Архипелага и гербы над дубовыми дверями",
     "file": "audio/28_venetian_kastro_sanudo.m4a",
-    "size_kb": 188,
-    "duration_sec": 45.2,
-    "duration_fmt": "0:45"
+    "size_kb": 483,
+    "duration_sec": 59.9,
+    "duration_fmt": "0:60"
   },
   {
     "id": "29_old_market_chora",
@@ -315,9 +315,9 @@ window.AUDIO_CATALOG = [
     "title": "29. Старый рынок Хоры: Лабиринт цветов и арок",
     "subtitle": "Тайные переходы, византийские лавки и вечерний променад",
     "file": "audio/29_old_market_chora.m4a",
-    "size_kb": 173,
-    "duration_sec": 41.6,
-    "duration_fmt": "0:42"
+    "size_kb": 418,
+    "duration_sec": 51.7,
+    "duration_fmt": "0:52"
   },
   {
     "id": "30_agios_prokopios_turquoise",
@@ -326,9 +326,9 @@ window.AUDIO_CATALOG = [
     "title": "30. Агиос Прокопиос: Золотые пески и лазурь",
     "subtitle": "Пляжный рай Киклад, крупный песок и полное безмятежие",
     "file": "audio/30_agios_prokopios_turquoise.m4a",
-    "size_kb": 181,
-    "duration_sec": 43.5,
-    "duration_fmt": "0:44"
+    "size_kb": 424,
+    "duration_sec": 52.4,
+    "duration_fmt": "0:52"
   },
   {
     "id": "31_sleeping_kouroi_quarries",
@@ -337,9 +337,9 @@ window.AUDIO_CATALOG = [
     "title": "31. Спящие Куросы: Гиганты в каменоломнях",
     "subtitle": "Аполлонас и Меланес: Загадка десятиметровых мраморных колоссов",
     "file": "audio/31_sleeping_kouroi_quarries.m4a",
-    "size_kb": 194,
-    "duration_sec": 46.6,
-    "duration_fmt": "0:47"
+    "size_kb": 483,
+    "duration_sec": 59.8,
+    "duration_fmt": "0:60"
   },
   {
     "id": "32_tragaea_olive_valley",
@@ -359,9 +359,9 @@ window.AUDIO_CATALOG = [
     "title": "33. Халки: Цитрусовый секрет ликера Китрон",
     "subtitle": "Семейная дистиллерия Валлиндрас с 1896 года и аромат цитрона",
     "file": "audio/33_halki_kitron_distillery.m4a",
-    "size_kb": 217,
-    "duration_sec": 52.6,
-    "duration_fmt": "0:53"
+    "size_kb": 505,
+    "duration_sec": 62.6,
+    "duration_fmt": "1:03"
   },
   {
     "id": "34_apeiranthos_marble_village",
@@ -370,9 +370,9 @@ window.AUDIO_CATALOG = [
     "title": "34. Апейрантос: Поэзия чистого мрамора",
     "subtitle": "Горная цитадель, критский диалект и рифмованные стихи коцакия",
     "file": "audio/34_apeiranthos_marble_village.m4a",
-    "size_kb": 192,
-    "duration_sec": 46.4,
-    "duration_fmt": "0:46"
+    "size_kb": 480,
+    "duration_sec": 59.2,
+    "duration_fmt": "0:59"
   },
   {
     "id": "35_voyage_to_thera",
@@ -381,9 +381,9 @@ window.AUDIO_CATALOG = [
     "title": "35. Вход в Кальдеру: Врата Санторини",
     "subtitle": "Морской вход в затопленный кратер и черные трехсотметровые скалы",
     "file": "audio/35_voyage_to_thera.m4a",
-    "size_kb": 165,
-    "duration_sec": 39.7,
-    "duration_fmt": "0:40"
+    "size_kb": 386,
+    "duration_sec": 47.8,
+    "duration_fmt": "0:48"
   },
   {
     "id": "36_athinios_cliffs_ascent",
