@@ -1,4 +1,4 @@
-// Auto-generated catalog of all 42 Gemini Aoede audio tracks
+// Auto-generated catalog of all 42 Gemini Aoede audio tracks with exact measured durations
 window.AUDIO_CATALOG = [
   {
     "id": "01_welcome_to_hellas",
@@ -7,7 +7,9 @@ window.AUDIO_CATALOG = [
     "title": "01. Приветствие в Элладе: Ночные Афины",
     "subtitle": "Прилет, воздух Аттики и первые огни колыбели цивилизации",
     "file": "audio/01_welcome_to_hellas.m4a",
-    "size_kb": 457
+    "size_kb": 457,
+    "duration_sec": 56.5,
+    "duration_fmt": "0:57"
   },
   {
     "id": "02_morning_in_koukaki",
@@ -16,7 +18,9 @@ window.AUDIO_CATALOG = [
     "title": "02. Утро в Кукаки: Кофе и спанакопита",
     "subtitle": "Культура греческого утра, фреддо эспрессо и выпечка",
     "file": "audio/02_morning_in_koukaki.m4a",
-    "size_kb": 475
+    "size_kb": 475,
+    "duration_sec": 58.8,
+    "duration_fmt": "0:59"
   },
   {
     "id": "03_south_slope_dionysus",
@@ -25,7 +29,9 @@ window.AUDIO_CATALOG = [
     "title": "03. Южный склон: Театр Диониса",
     "subtitle": "Рождение мировой трагедии, Эсхил, Софокл и 17 000 зрителей",
     "file": "audio/03_south_slope_dionysus.m4a",
-    "size_kb": 543
+    "size_kb": 543,
+    "duration_sec": 66.9,
+    "duration_fmt": "1:07"
   },
   {
     "id": "04_odeon_herodes_atticus",
@@ -34,7 +40,9 @@ window.AUDIO_CATALOG = [
     "title": "04. Одеон Герода Аттика",
     "subtitle": "Римская роскошь во имя любви и легендарная акустика",
     "file": "audio/04_odeon_herodes_atticus.m4a",
-    "size_kb": 486
+    "size_kb": 486,
+    "duration_sec": 60.5,
+    "duration_fmt": "1:01"
   },
   {
     "id": "05_propylaea_nike",
@@ -43,7 +51,9 @@ window.AUDIO_CATALOG = [
     "title": "05. Пропилеи и Храм Ники Аптерос",
     "subtitle": "Бескрылая победа и парадный мраморный портал Мнесикла",
     "file": "audio/05_propylaea_nike.m4a",
-    "size_kb": 514
+    "size_kb": 514,
+    "duration_sec": 63.8,
+    "duration_fmt": "1:04"
   },
   {
     "id": "06_parthenon_illusions",
@@ -52,7 +62,9 @@ window.AUDIO_CATALOG = [
     "title": "06. Парфенон: Секрет оптических иллюзий",
     "subtitle": "Энтазис, кривизна стилобата и геометрия Иктина и Калликрата",
     "file": "audio/06_parthenon_illusions.m4a",
-    "size_kb": 547
+    "size_kb": 547,
+    "duration_sec": 67.5,
+    "duration_fmt": "1:08"
   },
   {
     "id": "07_parthenon_athena_colossus",
@@ -61,7 +73,9 @@ window.AUDIO_CATALOG = [
     "title": "07. Золото и слоновая кость: Афина Парфенос",
     "subtitle": "Утраченный шедевр Фидия внутри святилища девы",
     "file": "audio/07_parthenon_athena_colossus.m4a",
-    "size_kb": 514
+    "size_kb": 514,
+    "duration_sec": 64.0,
+    "duration_fmt": "1:04"
   },
   {
     "id": "08_erechtheion_contest",
@@ -70,7 +84,9 @@ window.AUDIO_CATALOG = [
     "title": "08. Эрехтейон и великий спор богов",
     "subtitle": "Трезубец Посейдона, священная олива и асимметрия святилища",
     "file": "audio/08_erechtheion_contest.m4a",
-    "size_kb": 511
+    "size_kb": 511,
+    "duration_sec": 63.4,
+    "duration_fmt": "1:03"
   },
   {
     "id": "09_caryatids_biomechanics",
@@ -79,7 +95,9 @@ window.AUDIO_CATALOG = [
     "title": "09. Кариатиды: Инженерия красоты",
     "subtitle": "Анатомия кос, поза контрапоста и утраченная шестая сестра",
     "file": "audio/09_caryatids_biomechanics.m4a",
-    "size_kb": 533
+    "size_kb": 533,
+    "duration_sec": 65.9,
+    "duration_fmt": "1:06"
   },
   {
     "id": "10_areopagus_mars_hill",
@@ -88,7 +106,9 @@ window.AUDIO_CATALOG = [
     "title": "10. Скала Ареопаг: Холм Марса",
     "subtitle": "Суд старейшин, суд над богом войны и проповедь Апостола Павла",
     "file": "audio/10_areopagus_mars_hill.m4a",
-    "size_kb": 488
+    "size_kb": 488,
+    "duration_sec": 60.5,
+    "duration_fmt": "1:00"
   },
   {
     "id": "11_anafiotika_secret_village",
@@ -97,7 +117,9 @@ window.AUDIO_CATALOG = [
     "title": "11. Анафиотика: Тайный остров под Акрополем",
     "subtitle": "Обычное право ночного крова и бунт островных каменщиков 1841 года",
     "file": "audio/11_anafiotika_secret_village.m4a",
-    "size_kb": 602
+    "size_kb": 602,
+    "duration_sec": 74.3,
+    "duration_fmt": "1:14"
   },
   {
     "id": "12_ancient_agora_hephaestus",
@@ -106,7 +128,9 @@ window.AUDIO_CATALOG = [
     "title": "12. Древняя Агора и Храм Гефеста",
     "subtitle": "Сердце афинской демократии, остракизм и совершенный дорический периптер",
     "file": "audio/12_ancient_agora_hephaestus.m4a",
-    "size_kb": 515
+    "size_kb": 515,
+    "duration_sec": 63.8,
+    "duration_fmt": "1:04"
   },
   {
     "id": "13_philopappos_sunset",
@@ -115,7 +139,9 @@ window.AUDIO_CATALOG = [
     "title": "13. Закат на холме Филопаппу",
     "subtitle": "Холм Муз, тропа Пикиониса и золотой свет над Парфеноном",
     "file": "audio/13_philopappos_sunset.m4a",
-    "size_kb": 540
+    "size_kb": 540,
+    "duration_sec": 66.7,
+    "duration_fmt": "1:07"
   },
   {
     "id": "14_athens_nightlife_bars",
@@ -124,7 +150,9 @@ window.AUDIO_CATALOG = [
     "title": "14. Афинская ночь: Руфтопы и миксология",
     "subtitle": "Световая партитура Акрополя, The Clumsies и ритмы Псирри",
     "file": "audio/14_athens_nightlife_bars.m4a",
-    "size_kb": 527
+    "size_kb": 527,
+    "duration_sec": 64.8,
+    "duration_fmt": "1:05"
   },
   {
     "id": "15_ferry_to_cyclades",
@@ -133,7 +161,9 @@ window.AUDIO_CATALOG = [
     "title": "15. Выход в море: Порт Пирей и рассвет",
     "subtitle": "Морские ворота Эллады, катамаран Seajets и дыхание Мельтеми",
     "file": "audio/15_ferry_to_cyclades.m4a",
-    "size_kb": 429
+    "size_kb": 429,
+    "duration_sec": 52.9,
+    "duration_fmt": "0:53"
   },
   {
     "id": "16_cycladic_architecture_dna",
@@ -142,7 +172,9 @@ window.AUDIO_CATALOG = [
     "title": "16. Архитектурный код Киклад",
     "subtitle": "Белая известь, синий купол и плоские крыши против зноя и пиратов",
     "file": "audio/16_cycladic_architecture_dna.m4a",
-    "size_kb": 438
+    "size_kb": 438,
+    "duration_sec": 54.0,
+    "duration_fmt": "0:54"
   },
   {
     "id": "17_arrival_parikia_ekatontapyliani",
@@ -151,7 +183,9 @@ window.AUDIO_CATALOG = [
     "title": "17. Прибытие на Парос: Парикия и храм Стовратной",
     "subtitle": "Старинная мельница в порту и византийская святыня Святой Елены",
     "file": "audio/17_arrival_parikia_ekatontapyliani.m4a",
-    "size_kb": 472
+    "size_kb": 472,
+    "duration_sec": 58.3,
+    "duration_fmt": "0:58"
   },
   {
     "id": "18_naoussa_venetian_fort",
@@ -160,7 +194,9 @@ window.AUDIO_CATALOG = [
     "title": "18. Науса: Венецианский форт в волнах",
     "subtitle": "Рыбацкая гавань, пират Барбаросса и столики у самой воды",
     "file": "audio/18_naoussa_venetian_fort.m4a",
-    "size_kb": 410
+    "size_kb": 410,
+    "duration_sec": 50.7,
+    "duration_fmt": "0:51"
   },
   {
     "id": "19_gouna_parian_flavors",
@@ -169,7 +205,9 @@ window.AUDIO_CATALOG = [
     "title": "19. Гастрономия Пароса: Рыба гуна и узо",
     "subtitle": "Секрет вяленой на солнце скумбрии и паросские автохтонные вина",
     "file": "audio/19_gouna_parian_flavors.m4a",
-    "size_kb": 438
+    "size_kb": 438,
+    "duration_sec": 54.5,
+    "duration_fmt": "0:54"
   },
   {
     "id": "20_kolymbithres_granite_beach",
@@ -178,7 +216,9 @@ window.AUDIO_CATALOG = [
     "title": "20. Колимбитрес: Лунные гранитные ванны",
     "subtitle": "Миллионы лет эрозии, деревянные лодки-каики и бирюзовые бухты",
     "file": "audio/20_kolymbithres_granite_beach.m4a",
-    "size_kb": 178
+    "size_kb": 412,
+    "duration_sec": 50.9,
+    "duration_fmt": "0:51"
   },
   {
     "id": "21_parian_marble_sculpture",
@@ -187,7 +227,9 @@ window.AUDIO_CATALOG = [
     "title": "21. Паросский мрамор: Свет сквозь камень",
     "subtitle": "Венера Милосская, Ника Самофракийская и подземные каменоломни Марати",
     "file": "audio/21_parian_marble_sculpture.m4a",
-    "size_kb": 445
+    "size_kb": 445,
+    "duration_sec": 55.2,
+    "duration_fmt": "0:55"
   },
   {
     "id": "22_lefkes_mountain_refuge",
@@ -196,7 +238,9 @@ window.AUDIO_CATALOG = [
     "title": "22. Лефкес: Беломраморное сердце острова",
     "subtitle": "Средневековая столица в долине олив, амфитеатр и храм Агия Триада",
     "file": "audio/22_lefkes_mountain_refuge.m4a",
-    "size_kb": 181
+    "size_kb": 449,
+    "duration_sec": 55.7,
+    "duration_fmt": "0:56"
   },
   {
     "id": "23_byzantine_path_hike",
@@ -205,7 +249,9 @@ window.AUDIO_CATALOG = [
     "title": "23. Византийская тропа: Тысяча лет под ногами",
     "subtitle": "Древняя мраморная дорога осликов, дикий тимьян и тишина веков",
     "file": "audio/23_byzantine_path_hike.m4a",
-    "size_kb": 182
+    "size_kb": 452,
+    "duration_sec": 55.8,
+    "duration_fmt": "0:56"
   },
   {
     "id": "24_twilight_sommaripa",
@@ -214,7 +260,9 @@ window.AUDIO_CATALOG = [
     "title": "24. Сумерки в Наусе: Огни гавани",
     "subtitle": "Sommaripa Consolato, морской бриз и прощание с Паросом",
     "file": "audio/24_twilight_sommaripa.m4a",
-    "size_kb": 163
+    "size_kb": 427,
+    "duration_sec": 52.7,
+    "duration_fmt": "0:53"
   },
   {
     "id": "25_crossing_to_naxos",
@@ -223,7 +271,9 @@ window.AUDIO_CATALOG = [
     "title": "25. Пролив между островами: На пути к Наксосу",
     "subtitle": "Морской прыжок, силуэт горы Зас и приближение гигантских врат",
     "file": "audio/25_crossing_to_naxos.m4a",
-    "size_kb": 165
+    "size_kb": 165,
+    "duration_sec": 39.4,
+    "duration_fmt": "0:39"
   },
   {
     "id": "26_portara_apollo_gate",
@@ -232,7 +282,9 @@ window.AUDIO_CATALOG = [
     "title": "26. Портара: Врата Аполлона",
     "subtitle": "Шесть метров мрамора, двадцать тонн камня и двадцать шесть веков истории",
     "file": "audio/26_portara_apollo_gate.m4a",
-    "size_kb": 200
+    "size_kb": 200,
+    "duration_sec": 48.3,
+    "duration_fmt": "0:48"
   },
   {
     "id": "27_myth_ariadne_dionysus",
@@ -241,7 +293,9 @@ window.AUDIO_CATALOG = [
     "title": "27. Миф об Ариадне: Предательство и божественная любовь",
     "subtitle": "Тесей на Палатии, нить лабиринта и рождение культа Диониса",
     "file": "audio/27_myth_ariadne_dionysus.m4a",
-    "size_kb": 225
+    "size_kb": 225,
+    "duration_sec": 54.6,
+    "duration_fmt": "0:55"
   },
   {
     "id": "28_venetian_kastro_sanudo",
@@ -250,7 +304,9 @@ window.AUDIO_CATALOG = [
     "title": "28. Венецианский Кастро: Рыцарская цитадель",
     "subtitle": "Марко Санудо, Герцогство Архипелага и гербы над дубовыми дверями",
     "file": "audio/28_venetian_kastro_sanudo.m4a",
-    "size_kb": 188
+    "size_kb": 188,
+    "duration_sec": 45.2,
+    "duration_fmt": "0:45"
   },
   {
     "id": "29_old_market_chora",
@@ -259,7 +315,9 @@ window.AUDIO_CATALOG = [
     "title": "29. Старый рынок Хоры: Лабиринт цветов и арок",
     "subtitle": "Тайные переходы, византийские лавки и вечерний променад",
     "file": "audio/29_old_market_chora.m4a",
-    "size_kb": 173
+    "size_kb": 173,
+    "duration_sec": 41.6,
+    "duration_fmt": "0:42"
   },
   {
     "id": "30_agios_prokopios_turquoise",
@@ -268,7 +326,9 @@ window.AUDIO_CATALOG = [
     "title": "30. Агиос Прокопиос: Золотые пески и лазурь",
     "subtitle": "Пляжный рай Киклад, крупный песок и полное безмятежие",
     "file": "audio/30_agios_prokopios_turquoise.m4a",
-    "size_kb": 181
+    "size_kb": 181,
+    "duration_sec": 43.5,
+    "duration_fmt": "0:44"
   },
   {
     "id": "31_sleeping_kouroi_quarries",
@@ -277,7 +337,9 @@ window.AUDIO_CATALOG = [
     "title": "31. Спящие Куросы: Гиганты в каменоломнях",
     "subtitle": "Аполлонас и Меланес: Загадка десятиметровых мраморных колоссов",
     "file": "audio/31_sleeping_kouroi_quarries.m4a",
-    "size_kb": 194
+    "size_kb": 194,
+    "duration_sec": 46.6,
+    "duration_fmt": "0:47"
   },
   {
     "id": "32_tragaea_olive_valley",
@@ -286,7 +348,9 @@ window.AUDIO_CATALOG = [
     "title": "32. Долина Трагея: Зеленое сердце острова",
     "subtitle": "Вековые оливы, византийские базилики и дыхание гор",
     "file": "audio/32_tragaea_olive_valley.m4a",
-    "size_kb": 438
+    "size_kb": 438,
+    "duration_sec": 54.0,
+    "duration_fmt": "0:54"
   },
   {
     "id": "33_halki_kitron_distillery",
@@ -295,7 +359,9 @@ window.AUDIO_CATALOG = [
     "title": "33. Халки: Цитрусовый секрет ликера Китрон",
     "subtitle": "Семейная дистиллерия Валлиндрас с 1896 года и аромат цитрона",
     "file": "audio/33_halki_kitron_distillery.m4a",
-    "size_kb": 217
+    "size_kb": 217,
+    "duration_sec": 52.6,
+    "duration_fmt": "0:53"
   },
   {
     "id": "34_apeiranthos_marble_village",
@@ -304,7 +370,9 @@ window.AUDIO_CATALOG = [
     "title": "34. Апейрантос: Поэзия чистого мрамора",
     "subtitle": "Горная цитадель, критский диалект и рифмованные стихи коцакия",
     "file": "audio/34_apeiranthos_marble_village.m4a",
-    "size_kb": 192
+    "size_kb": 192,
+    "duration_sec": 46.4,
+    "duration_fmt": "0:46"
   },
   {
     "id": "35_voyage_to_thera",
@@ -313,7 +381,9 @@ window.AUDIO_CATALOG = [
     "title": "35. Вход в Кальдеру: Врата Санторини",
     "subtitle": "Морской вход в затопленный кратер и черные трехсотметровые скалы",
     "file": "audio/35_voyage_to_thera.m4a",
-    "size_kb": 165
+    "size_kb": 165,
+    "duration_sec": 39.7,
+    "duration_fmt": "0:40"
   },
   {
     "id": "36_athinios_cliffs_ascent",
@@ -322,7 +392,9 @@ window.AUDIO_CATALOG = [
     "title": "36. Порт Афиниос: Подъем по серпантину",
     "subtitle": "Лавовые стены, крутые петли дороги и подъем к небесам",
     "file": "audio/36_athinios_cliffs_ascent.m4a",
-    "size_kb": 157
+    "size_kb": 157,
+    "duration_sec": 37.5,
+    "duration_fmt": "0:38"
   },
   {
     "id": "37_imerovigli_balcony",
@@ -331,7 +403,9 @@ window.AUDIO_CATALOG = [
     "title": "37. Имеровигли: Балкон Эгейского моря",
     "subtitle": "Высочайшая точка кальдеры, Скала Скарос и безмолвие над кратером",
     "file": "audio/37_imerovigli_balcony.m4a",
-    "size_kb": 155
+    "size_kb": 155,
+    "duration_sec": 37.0,
+    "duration_fmt": "0:37"
   },
   {
     "id": "38_caldera_trail_hike",
@@ -340,7 +414,9 @@ window.AUDIO_CATALOG = [
     "title": "38. Тропа над бездной: Из Имеровигли в Фиру",
     "subtitle": "Два с половиной километра по кромке кратера над лазурной бездной",
     "file": "audio/38_caldera_trail_hike.m4a",
-    "size_kb": 172
+    "size_kb": 172,
+    "duration_sec": 41.1,
+    "duration_fmt": "0:41"
   },
   {
     "id": "39_minoan_apocalypse_atlantis",
@@ -349,7 +425,9 @@ window.AUDIO_CATALOG = [
     "title": "39. Минойский апокалипсис: Тайна Атлантиды",
     "subtitle": "Извержение 1600 года до нашей эры, цунами Крита и диалоги Платона",
     "file": "audio/39_minoan_apocalypse_atlantis.m4a",
-    "size_kb": 224
+    "size_kb": 224,
+    "duration_sec": 54.4,
+    "duration_fmt": "0:54"
   },
   {
     "id": "40_oia_blue_domes_yposkafa",
@@ -358,7 +436,9 @@ window.AUDIO_CATALOG = [
     "title": "40. Ия: Синие купола и пещерные дома ипоскафа",
     "subtitle": "Мраморная улица, три купола Агиос Спиридон и древние пещеры в туфе",
     "file": "audio/40_oia_blue_domes_yposkafa.m4a",
-    "size_kb": 205
+    "size_kb": 205,
+    "duration_sec": 49.3,
+    "duration_fmt": "0:49"
   },
   {
     "id": "41_aegean_nectar_gastronomy",
@@ -367,7 +447,9 @@ window.AUDIO_CATALOG = [
     "title": "41. Вкусы Эгеиды: Ассиртико, гравиера и оливы",
     "subtitle": "Вулканические лозы-корзинки кулура, сыры Наксоса и каперсы",
     "file": "audio/41_aegean_nectar_gastronomy.m4a",
-    "size_kb": 193
+    "size_kb": 193,
+    "duration_sec": 46.5,
+    "duration_fmt": "0:46"
   },
   {
     "id": "42_farewell_cyclades",
@@ -376,6 +458,8 @@ window.AUDIO_CATALOG = [
     "title": "42. Прощание с Кикладами: След в сердце",
     "subtitle": "Соль на губах, белый мрамор и вечное сияние Эгеиды",
     "file": "audio/42_farewell_cyclades.m4a",
-    "size_kb": 193
+    "size_kb": 193,
+    "duration_sec": 46.6,
+    "duration_fmt": "0:47"
   }
 ];
